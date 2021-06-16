@@ -1,2 +1,2 @@
 # struct
-learn struct in golang
+Belajar simple tentang struct
